@@ -1,0 +1,273 @@
+body {
+	max-width: 800px;
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+}
+.text{
+    position: absolute;
+    left: 10px;
+    font-size: 40px;
+    color: #000000;
+    text-align: left;
+}
+.text1{
+    font-style: none ;
+    font-size: 55px;
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    color: #000000;
+    text-align: center;
+    padding-right: 300px;
+    height: 1;
+}
+.btplanta{
+    border-style: dotted;
+    position: absolute;
+    top: 50px;
+    right: 290px;
+    border-radius: 100px;
+    width: 130px;
+    height: 30px;
+    background-color: #ffffff;
+}
+.btfiltrar{
+    border-style: none;
+    position: absolute;
+    top: 50px;
+    right: 120px;
+    border-radius: 100px;
+    width: 130px;
+    height: 30px;
+    background: linear-gradient(45deg,#0ef, #2f0997);
+}
+.MONTERREY{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 200px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953) 
+}
+.SLMTR{
+    position: absolute;
+    top: 300PX;
+    left: 200PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    border-radius: 90px;
+    background-color: #e9e9e9;
+}
+.CDMX{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 650px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953)
+}
+.SLCDM{
+    position: absolute;
+    top: 300PX;
+    left: 650PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.MERIDA{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 1100px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953)
+}
+.SLMRD{
+    position: absolute;
+    top: 300PX;
+    left: 1100PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.MERIDA2{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 1550px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953)
+}
+.SLMRD2{
+    position: absolute;
+    top: 300PX;
+    left: 1550PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.MONTERREY2{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 460px;
+    left: 200px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953) 
+}
+.SLMTR2{
+    position: absolute;
+    top: 550PX;
+    left: 200PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.CDMX2{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 460px;
+    left: 650px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953) 
+}
+.SLCDM2{
+    position: absolute;
+    top: 550PX;
+    left: 650PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.PUEBLA{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 460px;
+    left: 1100px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953) 
+}
+.SLPB{
+    position: absolute;
+    top: 550PX;
+    left: 1100PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.TIJUANA{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 460px;
+    left: 1550px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953)   
+}
+.SLTJ{
+    position: absolute;
+    top: 550PX;
+    left: 1550PX;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.OAXACA{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 710px;
+    left: 650px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953) 
+}
+.SLOX{
+    position: absolute;
+    top: 800PX;
+    left: 650px;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+.PUEBLA2{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 710px;
+    left: 1100px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#0d8a6f,#71e953) 
+}
+.SLPB2{
+    position: absolute;
+    top: 800PX;
+    left: 1100px;
+    height: 35PX;
+    width:290PX;
+    font-size: 18PX;
+    border: none;
+    background-color: #e9e9e9;
+    border-radius: 90px;
+}
+header {
+	background-color: #000000;
+	color: #ffffff;
+	padding: 2px;
+	text-align: left;
+}
+main {
+	padding: 20px;
+}
+.tank{
+    position: absolute;
+    top: 498px;
+    left: 0px;
+
+}
+.imgato{
+    position: absolute;
+    left: 340px;
+    top: -20px;
+}

@@ -1,0 +1,118 @@
+.black{
+    position: absolute;
+    width: 1930px;
+    top: 0px;
+    height: 110px;
+    left: -10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.cuadro{
+    position: absolute;
+    width: 800px; 
+    height: 65vh;
+    display: grid;
+    top: 250px;
+    left: 570px; 
+    grid-template-columns: 1fr 1fr;
+    border: 3px solid #00ffff2a;
+    box-shadow: 0 0 50px 0 #04ffff;
+}
+
+.grafica{
+    position: absolute;
+    top: 370px;
+    height: 580px;
+    left: -47px;
+}
+
+.grfest{
+   position: absolute;
+    top: 430px;
+    left: 160px;
+}
+.B1{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 155px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#2ef3e9,#1493b3) 
+}
+    
+.B2{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 600px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#4efa3f,#06aa21) 
+}
+    
+.B3{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 1050px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#eef116,#dba530)
+}
+
+.B4{
+    font-size: 18px;
+    border-style: line;
+    position: absolute;
+    top: 210px;
+    left: 1500px;
+    width: 290px;
+    height: 80px;
+    background: linear-gradient(45deg,#ffffff,#e9e3dd)
+}
+    
+.tabla {
+    position: absolute;
+    top: 420px;
+    left: 700px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 500px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+    
+.tabla thead tr {
+    background-color: #000000;
+    color:#ffffff;
+    text-align:middle;
+}
+    
+.tabla th,
+.tabla td {
+padding: 12px 15px;
+}
+    
+.tabla tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+    
+.tabla tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;
+}
+
+.medidor{
+    position: absolute;
+    top: 450px;
+    left: 1300px;
+}
+    
